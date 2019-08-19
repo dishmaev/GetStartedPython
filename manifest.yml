@@ -1,0 +1,6 @@
+---
+applications:
+ - name: GetStartedPython
+   host: dishmaev-getstartedpython
+   random-route: true
+   memory: 128M
